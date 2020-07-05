@@ -4,5 +4,6 @@ Purpel
 Pink
 Orange
 Green
+Black
 
 This is my rainbow

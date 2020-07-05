@@ -7,4 +7,6 @@ Orange
 Green
 Black
 Unicorn
+Ponies
+Indigo
 This is my rainbow
